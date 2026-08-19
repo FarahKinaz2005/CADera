@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+sentence-transformers
+faiss-cpu
+rank_bm25
+pandas
+numpy
+google-genai
