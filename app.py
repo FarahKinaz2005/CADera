@@ -864,7 +864,7 @@ You must return ONLY one of these two formats.
 
 FORMAT A — if the retrieved evidence clearly answers the question:
 
-Answer:
+Recommendation:
 <direct answer>
 
 Supporting Evidence:
@@ -872,7 +872,6 @@ Supporting Evidence:
 
 Citations:
 - <document>, Section: <section>, Page: <page> (chunk_id: <id>)
-- Do not include retrieval scores or any other ranking metadata in citations.
 
 Confidence:
 <High | Medium | Low>
